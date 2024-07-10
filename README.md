@@ -8,7 +8,7 @@ Run
 
 ## Libraries
 
-## Tailwind CSS
+### Tailwind CSS
 
 - To install `npm create vite@latest my-project -- --template react`
 - To init `npx tailwindcss init -p`
@@ -21,9 +21,13 @@ Run
 
 [Tailwind CSS Vite Documentation](https://tailwindcss.com/docs/guides/vite)
 
+#### Tailwind CSS Scrollbar
+
+- To install `npm install --save-dev tailwind-scrollbar`
+
 ### Lucide-react to use icons
 
-- To install `npm i lucid-react `
+- To install `npm i lucid-react`
 
 ### React-player to use video from several providers (youtube, vimeo, etc)
 
