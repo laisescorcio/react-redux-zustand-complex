@@ -6,7 +6,9 @@ Run
 `npm install`
 `npm run dev`
 
-## Use Tailwind
+## Libraries
+
+## Tailwind CSS
 
 - To install `npm create vite@latest my-project -- --template react`
 - To init `npx tailwindcss init -p`
@@ -19,9 +21,13 @@ Run
 
 [Tailwind CSS Vite Documentation](https://tailwindcss.com/docs/guides/vite)
 
-## Lucide-react to use icons
+### Lucide-react to use icons
 
 - To install `npm i lucid-react `
+
+### React-player to use video from several providers (youtube, vimeo, etc)
+
+- To install `npm i react-player`
 
 ## Redux Flow
 
