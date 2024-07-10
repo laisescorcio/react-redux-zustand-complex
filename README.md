@@ -33,6 +33,21 @@ Run
 
 - To install `npm i react-player`
 
+### Collapsible from Radix UI - functionalities without estilization
+
+- To install `npm install @radix-ui/react-collapsible`
+- Use
+
+```javascript
+<Collapsible.Root>
+  Group of collapsible
+  <Collapsible.Trigger>Button to trigger to open and close</Collapsible.Trigger>
+  <Collapsible.Content>
+    Content that will be opened and closed
+  </Collapsible.Content>
+</Collapsible.Root>
+```
+
 ## Redux Flow
 
 - The store is created
