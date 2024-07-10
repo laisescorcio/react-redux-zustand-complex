@@ -9,7 +9,13 @@ Run
 ## Use Tailwind
 
 - To install `npm create vite@latest my-project -- --template react`
-- To init `npx tailwindcss init`
+- To init `npx tailwindcss init -p`
+- Add a css file with:
+  @tailwind base;
+  @tailwind components;
+  @tailwind utilities;
+- Install the Postcss and Tailwind Docs extensions (autocomplete)
+- To install postcss autoprefixer run `npm install -D tailwindcss postcss autoprefixer`
 
 [Tailwind CSS Vite Documentation](https://tailwindcss.com/docs/guides/vite)
 

@@ -1,3 +1,3 @@
 export function Player() {
-  return <div>Player</div>;
+  return <div className="bg-black">Player</div>;
 }
