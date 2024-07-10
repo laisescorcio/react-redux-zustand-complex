@@ -19,6 +19,10 @@ Run
 
 [Tailwind CSS Vite Documentation](https://tailwindcss.com/docs/guides/vite)
 
+## Lucide-react to use icons
+
+- To install `npm i lucid-react `
+
 ## Redux Flow
 
 - The store is created
