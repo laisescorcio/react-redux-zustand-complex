@@ -13,13 +13,13 @@ const playerSlie = createSlice({
                             id: 'Jai8w6K_GnY', title: 'Fundamentos do Redux', duration: '09:13'
                         },
                         {
-                            id: 'Jai8w6K_GnY', title: 'Estilização do Post', duration: '08:13'
+                            id: 'zOvsyamoEDg', title: 'Estilização do Post', duration: '08:13'
                         },
                         {
                             id: 'Jai8w6K_GnY', title: 'Componente: Header', duration: '07:13'
                         },
                         {
-                            id: 'Jai8w6K_GnY', title: 'Componente: Sidebar', duration: '06:13'
+                            id: 'zOvsyamoEDg', title: 'Componente: Sidebar', duration: '06:13'
                         },
                         {
                             id: 'Jai8w6K_GnY', title: 'CSS Global', duration: '05:13'
@@ -31,13 +31,13 @@ const playerSlie = createSlice({
                     title: 'Estrutura da aplicação',
                     lessons: [
                         {
-                            id: 'Jai8w6K_GnY', title: 'Component: Comment', duration: '09:13'
+                            id: 'zOvsyamoEDg', title: 'Component: Comment', duration: '09:13'
                         },
                         {
                             id: 'Jai8w6K_GnY', title: 'Responsividade', duration: '08:13'
                         },
                         {
-                            id: 'Jai8w6K_GnY', title: 'Interações no JSX', duration: '07:13'
+                            id: 'zOvsyamoEDg', title: 'Interações no JSX', duration: '07:13'
                         },
                         {
                             id: 'Jai8w6K_GnY', title: 'Utilizando estado', duration: '06:13'
